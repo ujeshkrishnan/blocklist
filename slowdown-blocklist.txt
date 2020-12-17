@@ -6,6 +6,10 @@ snapchat.com
 youtube.com
 m.facebook.com
 facebook.com
+scontent-maa2-1.xx.fbcdn.net
+scontent-maa2-2.xx.fbcdn.net
+fbcdn.net
+fbsbx.com
 connect.facebook.net
 instagram.com
 chat.cdn.whatsapp.net
@@ -17,6 +21,7 @@ e1.whatsapp.net
 e14.whatsapp.net
 g.whatsapp.net
 whatsapp.net
+mmx-ds.cdn.whatsapp.net
 media-maa2-1.cdn.whatsapp.net
 media-maa2-2.cdn.whatsapp.net
 r1---sn-cnoa-jv3l.googlevideo.com
